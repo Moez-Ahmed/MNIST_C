@@ -13,7 +13,7 @@ This project avoids traditional machine learning libraries and frameworks; every
 
 ## Why No ML Libraries?
 
-This project demonstrates how neural networks can be built **from first principles**.  
+This project demonstrates how neural networks can be built from simply the math behind them.  
 Every step, loading raw MNIST data, computing activations, applying weight updates, is explicitly written in C++, without delegating to high-level ML abstractions.  
 
 ## Repository Structure
